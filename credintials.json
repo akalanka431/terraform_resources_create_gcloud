@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "steam-circlet-355619",
+  "private_key_id": "c8b5e87d9bddcfd7d353fff9f3c426516a8b9920",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDRdlDbVbhlN7Eu\nYNi7+UO5wWd71e8nMNW84NUpTDJii06P7xZskjczGBbOQI2LfS7MZ3+otUDBNp3z\nzpgdwCX+gR4MSMYi/NFmq/+qzoaeN+18ZW2J1B+4rHYBKFm5OYIWuaaYk0cIYdhz\npBaPcZKQXRVPb3zOOzGXVB0gUcQIX8ThU1Fv/Okx3BeSby3t6B4kWm9n+CTT5cA1\nrlwchRP6RGuJ0JLFDgarkTT9+A1TR+auu3l3uTL+2Njqz7NXW9V9Xoh4Q/bH1kuV\nYKTF9GEgm7/pB5Fy9qpzD/VAbfgm0RNye8MMLvlZ7DuGAa4LX2vESLr3dbhJ3dV+\nae7yoCWhAgMBAAECggEABwPPimubrNF0KXRMiI29CGljQKugrO8plqqa851If1y1\n/q5dpw4wiLwGS4Ba8oXN6EI7wsKAjtf4QJQ11k07Qy4/e4mBD+aSpr3HkV4FoSKI\nsrv83VBRgvr3oBX3XJ4smVE8tJW+G8LsdQGqUGyCduY/J/VjuHkVXJblu3wxigGH\niHX2BlJTAFtZAcybJ2NyqJ6MvktIOuG9Ky1mDerx+j9Z+k6U8iG6hGjsLUWmr3XK\nxfOz5jMp35oyjpwwtEjR0fojTAy0mwXfhAuPY3Bbu0Xkl7arUwOhMja945KCc2Bt\n1ZEQu3zJ+hN/bO4IIclWrCQtLIpB3cWaFehm9Y1iCQKBgQD3MGEO/dEOXEpxPTRE\nTwcymMqfdpbEW6CEMjuv7I7ec7mq3enqs1ByvAuejigOBYB+sXTYVbKSl7ajoqqO\nhCePKogJkG03qBwwgsPngkVjOjWXG4biWW6aud4CLyL6z/YnYizHmdf8lv3HXD1J\nF+VZ+eIpoAeCMl8fADfNU6AXXQKBgQDY7a0iUXjbM7GQ5LNYqQOiOwnA4EBJr9oT\n13LDIMeL/WVr+WFZZEyxuGroCnl6A1PyWfJ+JyuIp9IAT9prlozFXZfFZCKj3MeN\nrbs6dJqKeMi72dD3ECq/DESKiwkWMkOyRTIoRKd9qWQLLaj6MMrxaBfDAP2b0NX0\ndxoPqgp3FQKBgQDO6B8GFm0MMTJasRlz6BalQoGwkupGOFAW95lAe6lnCMUsAg7P\n1wKK115+fI2IlxBkfBPLFYig7f8B36IWIwad7sLqBot1H/FgpcRnn4KHOW0sK+1u\nv982AkiT2XLVMIfhlWrYNK03EAgi/NGLwkXHV8P4haxjTdiTMXKEGvCRPQKBgQDY\nmcmMQMlqJl2gjZs+ZdSJAmYkvkWyzfH0aeXfTDWzZBsHCwTXGz0xHzEv7HWLDROf\nI4zrxfTECL25LgKr9rEsyN0obWnhMCvZHaWbIp7EsQHOABmU+AGWrYsqwtUZ4qqR\nsGH6r0KGSMLqHndhCaM6FHPVdIHGOWnJJbtR9LlqWQKBgDYT2BXSbjhcktc5YvmH\nMAWS0NmL7Sf7iaziG+LGuITGLzhkWzYbeZyToO2o9vrfPXufA3/Hezq6teX1jhrD\nkcrVG1ySvDqBjOjwH/0rdhbSzpkHOHgbN4U90EDc0OSc3zMeJUx8Myc/ytTpE6Fo\nd1uJXgsxlowG6RGKjVSAcQkK\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-sa@steam-circlet-355619.iam.gserviceaccount.com",
+  "client_id": "111896327096170721866",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-sa%40steam-circlet-355619.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
